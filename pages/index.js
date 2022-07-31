@@ -15,7 +15,7 @@ const index = () => {
         <title>Dua Jiwa</title>
       </Head>
 
-      <Hero name='Baco' couple='Becce' date='07.08.2022'/>
+      <Hero name='Seri' couple='Andi' date='07.08.2022'/>
       <MainContent />
       <Gallery />
       <Countdown />
